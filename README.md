@@ -9,3 +9,5 @@ Tools and Libraries:
 TensorFlow/Keras
 Pandas
 Matplotlib, Seaborn
+
+https://www.kaggle.com/code/nurayerdogan/classification-with-ann
